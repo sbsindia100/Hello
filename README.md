@@ -1,4 +1,4 @@
 # Hello
 This is my first repository
 <br>
-Author: Shashi
+Author: S. B. Singh
